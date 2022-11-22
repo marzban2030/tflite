@@ -81,3 +81,7 @@ python3 classify_image.py \
   --input images/parrot.jpg
 ```
 
+For absolutely NoEDGETPU run:
+```
+python3 classify_image_NoEDGETPU.py --model models/mobilenet_v2_1.0_224_inat_bird_quant.tflite --labels models/inat_bird_labels.txt --input images/parrot.jpg
+```
