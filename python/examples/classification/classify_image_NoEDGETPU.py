@@ -88,5 +88,5 @@ def main():
 if __name__ == '__main__':
   main()
 
-Author: Reza Marzban
-//GitHub.com/marzban2030/tflite
+# Author: Reza Marzban
+# GitHub.com/marzban2030/tflite
